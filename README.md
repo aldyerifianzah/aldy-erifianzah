@@ -1,9 +1,5 @@
-# aldy-erifianzah
-
 <h1 align="center">Hi 👋, I'm @AldyErz</h1>
 <h3 align="center">Hey there 👋 , I'm The Self-Taught Developer.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldyerifianzah" alt="aldyerifianzah" /></a> </p>
 
 - 🌱 I’m currently learning **FrontEnd Development and BackEnd Development**
 
